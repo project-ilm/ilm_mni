@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" role="img" aria-label="IDE">
+<rect width="900" height="400" rx="14" fill="#fff" stroke="#d9d2c3"/><rect width="900" height="40" rx="14" fill="#2d2a6e"/><rect y="26" width="900" height="14" fill="#2d2a6e"/>
+<circle cx="22" cy="20" r="6" fill="#e06c5d"/><circle cx="42" cy="20" r="6" fill="#e6b450"/><circle cx="62" cy="20" r="6" fill="#62b26b"/>
+<rect x="20" y="54" width="120" height="28" rx="6" fill="#2e7d32"/><text x="80" y="73" text-anchor="middle" font-size="15" fill="#fff">▶</text>
+<rect x="20" y="92" width="860" height="290" rx="6" fill="#fbfaf7" stroke="#bbb"/>
+<text x="32" y="118" text-anchor="start" direction="ltr" font-family="ui-monospace,monospace" font-size="15" fill="#1d1b17" xml:space="preserve">#অন্তর্ভাব &lt;stdio.h&gt;</text>
+<text x="32" y="139" text-anchor="start" direction="ltr" font-family="ui-monospace,monospace" font-size="15" fill="#1d1b17" xml:space="preserve">/* সাজানো তালিকায় দ্বিমিক অনুসন্ধান */</text>
+<text x="32" y="160" text-anchor="start" direction="ltr" font-family="ui-monospace,monospace" font-size="15" fill="#1d1b17" xml:space="preserve">পূর্ণাঙ্ক দ্বিমিক_অনুসন্ধান(পূর্ণাঙ্ক মানসমূহ[], পূর্ণাঙ্ক গুনতি, পূর্ণাঙ্ক চাবি) {</text>
+<text x="32" y="181" text-anchor="start" direction="ltr" font-family="ui-monospace,monospace" font-size="15" fill="#1d1b17" xml:space="preserve">  পূর্ণাঙ্ক নিচের = 0, উপরের = গুনতি - 1;</text>
+<text x="32" y="202" text-anchor="start" direction="ltr" font-family="ui-monospace,monospace" font-size="15" fill="#1d1b17" xml:space="preserve">  যাবত্ (নিচের &lt;= উপরের) {</text>
+<text x="32" y="223" text-anchor="start" direction="ltr" font-family="ui-monospace,monospace" font-size="15" fill="#1d1b17" xml:space="preserve">    পূর্ণাঙ্ক মধ্য = নিচের + (উপরের - নিচের) / 2;</text>
+<text x="32" y="244" text-anchor="start" direction="ltr" font-family="ui-monospace,monospace" font-size="15" fill="#1d1b17" xml:space="preserve">    যদি (মানসমূহ[মধ্য] == চাবি) প্রত্যাগম মধ্য;</text>
+<text x="32" y="265" text-anchor="start" direction="ltr" font-family="ui-monospace,monospace" font-size="15" fill="#1d1b17" xml:space="preserve">    যদি (মানসমূহ[মধ্য] &lt; চাবি) নিচের = মধ্য + 1; অন্যথা উপরের = মধ্য - 1;</text>
+<text x="32" y="286" text-anchor="start" direction="ltr" font-family="ui-monospace,monospace" font-size="15" fill="#1d1b17" xml:space="preserve">  }</text>
+<text x="32" y="307" text-anchor="start" direction="ltr" font-family="ui-monospace,monospace" font-size="15" fill="#1d1b17" xml:space="preserve">  প্রত্যাগম -1;</text>
+<text x="32" y="328" text-anchor="start" direction="ltr" font-family="ui-monospace,monospace" font-size="15" fill="#1d1b17" xml:space="preserve">}</text>
+<text x="32" y="349" text-anchor="start" direction="ltr" font-family="ui-monospace,monospace" font-size="15" fill="#1d1b17" xml:space="preserve">পূর্ণাঙ্ক মরুওইবা(শূন্য) {</text>
+</svg>
